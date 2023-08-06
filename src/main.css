@@ -1,0 +1,44 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'PlusJakartaSansExtraBold';
+  src: url('../src/assets/fonts/PlusJakartaSans-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'PlusJakartaSansMedium';
+  src: url('../src/assets/fonts/PlusJakartaSans-Medium.ttf') format('truetype');
+}
+
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+  }
+
+
+  .mySwiper .swiper-pagination-bullet {
+    background-color: #D0D0D0; /* Change the background color of inactive bullets to blue */
+    opacity: 1; /* Set the opacity for inactive bullets */
+    height: 10px;
+    width: 10px;
+  }
+  
+  .mySwiper .swiper-pagination-bullet-active {
+    background-color: #C2465C; /* Change the background color of the active bullet to dark blue */
+    opacity: 1; /* Set the opacity for the active bullet */
+  }
