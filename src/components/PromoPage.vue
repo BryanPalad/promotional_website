@@ -11,8 +11,9 @@
         </div>
 
         <h3 class="font-jakartaSansMedium text-white text-xl px-4 mt-4 drop-shadow-2xl">
-            With a new look and more features, use PayLoro for e-Wallet services such as bill payment, sending money, cash-in, cash-out, eLoad, QR payment,
-            and remittance. Access a series of financial services with only your Philippine mobile number and valid ID!
+          Discover the upgraded PayLoro e-Wallet with enhanced features for seamless financial management. 
+          Enjoy services like Buy Load, Pay Bills, Send Money, Cash-In and Cash-Out transactions, 
+          QR payments, and remittances – all easily accessible using your Philippine mobile number and valid ID.
         </h3>
 
         <h3 class="font-jakartaSansMedium text-lg text-center mt-8 text-white drop-shadow-xl">Available in:</h3>
@@ -47,7 +48,7 @@
         <img src="../assets/img/HomePage.jpg" class="rounded-2xl"/>
     </swiper-slide>
     <swiper-slide>
-        <img src="../assets/img/BillsPage.jpg" class="rounded-2xl"/>
+        <img src="../assets/img/BillsPayment.jpg" class="rounded-2xl"/>
     </swiper-slide>
     <swiper-slide>
         <img src="../assets/img/QRPage.jpg" class="rounded-2xl"/>
