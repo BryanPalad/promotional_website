@@ -44,16 +44,16 @@
     class="mySwiper"
   >
     <swiper-slide class="h-full">
-        <img src="../assets/img/HomePage.jpg"/>
+        <img src="../assets/img/HomePage.jpg" class="rounded-2xl"/>
     </swiper-slide>
     <swiper-slide>
-        <img src="../assets/img/BillsPage.jpg"/>
+        <img src="../assets/img/BillsPage.jpg" class="rounded-2xl"/>
     </swiper-slide>
     <swiper-slide>
-        <img src="../assets/img/QRPage.jpg"/>
+        <img src="../assets/img/QRPage.jpg" class="rounded-2xl"/>
     </swiper-slide>
     <swiper-slide>
-        <img src="../assets/img/ProfilePage.jpg"/>
+        <img src="../assets/img/ProfilePage.jpg" class="rounded-2xl"/>
     </swiper-slide>
   </swiper>
 
@@ -64,12 +64,12 @@
         <div class="flex gap-4">
             <div class="flex flex-col items-center w-1/2 gap-4">
                 <img src="../assets/img/QR_Apple.png" alt="QR AppleStore" class="w-full lg:w-1/2">
-                <div class="text-sm text-center font-jakartaSansMedium text-white bg-primary px-4 py-2 rounded-2xl">App Store</div>
+                <div class="text-sm text-center font-jakartaSansMedium text-white bg-primary px-4 py-2 rounded-2xl">Apple App Store</div>
             </div>
 
             <div class="flex flex-col items-center w-1/2 gap-4">
                 <img src="../assets/img/QR_Playstore.png" alt="QR PlayStore" class="w-full lg:w-1/2">
-                <div class="text-sm text-center font-jakartaSansMedium text-white bg-primary px-4 py-2 rounded-2xl">Google Play</div>
+                <div class="text-sm text-center font-jakartaSansMedium text-white bg-primary px-4 py-2 rounded-2xl">Google Play Store</div>
             </div>
         </div>
     </section>
